@@ -9,8 +9,4 @@ test_ubi.py - gyro + gps tracker
 
 Python
 
-
-SQL
-
-
 C/C++ (arduino)
